@@ -475,6 +475,7 @@ class App {
             },
             friendResponse: (message) => {
                 const {login, accept} = message.payload;
+
                 let userI = userDB.findIndex((item) => item.email.toUpperCase() === decoded.email.toUpperCase());
                 let requestUserI = userDB.findIndex((item) => item.email.toUpperCase() === login.toUpperCase());
 
@@ -730,8 +731,11 @@ class App {
                                     JSON.stringify({
                                         command: "setUserPhoto",
                                         payload: {
-                                            login: userDB[userI].email,
-                                            photo: `http://127.0.0.1:3000/uploads/${fileName}`,
+                                            user: {
+                                                email: userDB[userI].email,
+                                                name: userDB[userI].name,
+                                                photo: `http://127.0.0.1:3000/uploads/${fileName}`
+                                            },
                                         },
                                     })
                                 );
@@ -795,8 +799,10 @@ class App {
             });
         }
         sendActivityInfo()
+
         ws.on('message', (message: any) => {
             if (!decoded) return;
+
             message = JSON.parse(message.toString())
             chatDB = this.loadDataFromJSONFile(this.chatDBPath)
             userDB = this.loadDataFromJSONFile(this.userDBPath)
