@@ -378,7 +378,7 @@ class App {
         let chatDB: ChatDB = this.loadDataFromJSONFile(this.chatDBPath)
         let userDB: UserDB = this.loadDataFromJSONFile(this.userDBPath)
         let userI = userDB.findIndex((item) => item.email.toUpperCase() === decoded.email.toUpperCase())
-        if(!userI) return
+        if(userI<0) return
         userDB[userI].lastActivity = new Date().toISOString()
         this.saveDataToJSONFile(userDB, this.userDBPath)
 
