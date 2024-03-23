@@ -16,7 +16,7 @@ export type clientUser = {
 }
 export type Chat = {
     id: string;
-    groupName: string;
+    chatName: string;
     members: string[];
     history: {
         from: string;
@@ -59,11 +59,11 @@ export type iCommandActionList = {
     friendRequest: (message:clientMessage) => void
     friendResponse: (message:clientMessage) => void
     removeFriend: (message:clientMessage) => void
-    groupCreated: (message:clientMessage)=> void
-    friendAddedToGroup: (message:clientMessage)=>void
-    setGroupPhoto: (message:clientMessage)=>void
+    chatCreated: (message:clientMessage)=> void
+    friendAddedToChat: (message:clientMessage)=>void
+    setChatPhoto: (message:clientMessage)=>void
     setUserPhoto: (message:clientMessage)=>void
-    leaveGroup: (message:clientMessage)=>void
+    leaveChat: (message:clientMessage)=>void
 
     [key:string]: (message:clientMessage)=>void
 }

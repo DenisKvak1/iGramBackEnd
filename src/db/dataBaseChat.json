@@ -1,0 +1,216 @@
+[
+  {
+    "id": "0836f1a4-a70b-4bfc-9927-dc70536edaba",
+    "chatName": "Группа",
+    "members": [
+      "denis.kvak143@gmail.com"
+    ],
+    "photo": "http://127.0.0.1:3000/uploads/326b055d3a146724907eb2495daa107707ba0f620c11617c35767bb7d1546395.png",
+    "history": [
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "Привет",
+        "fromName": "denis",
+        "timestamp": "2024-03-15T20:10:01.803Z"
+      },
+      {
+        "from": "denis.kvak143@gmail.com",
+        "text": "ку",
+        "fromName": "denis",
+        "timestamp": "2024-03-15T20:10:07.041Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "вфцвф",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:47.937Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "вфцвцвц",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:48.692Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "вцфвцв",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:49.358Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "вцфвц",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:49.981Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "вфцвцфв",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:51.016Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "афуауф",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:52.653Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "афуауф",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:53.275Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "афуауф",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:53.821Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "афуауф",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:53:54.413Z"
+      },
+      {
+        "from": "denis.kvak143@gmail.com",
+        "text": "adw",
+        "fromName": "denis",
+        "timestamp": "2024-03-18T19:17:56.073Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "wdwad",
+        "fromName": "denis",
+        "timestamp": "2024-03-18T19:18:00.944Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "dawdw",
+        "fromName": "denis",
+        "timestamp": "2024-03-19T18:17:59.958Z"
+      }
+    ]
+  },
+  {
+    "id": "9bc5ccdf-e220-43f6-88db-2b442d86a62f",
+    "chatName": "dwdw",
+    "members": [
+      "denis.kvak143@gmail.com",
+      "denis.kvak457@gmail.com"
+    ],
+    "photo": "http://127.0.0.1:3000/uploads/aead0da3d32845388f4c6fcefca8cfa412142615f9a0e31de636bc0697ac2cae.png",
+    "history": [
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "dawdw",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:54:19.820Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "dwadw",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:54:20.514Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "dwa",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:54:20.946Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "dwa",
+        "fromName": "denis",
+        "timestamp": "2024-03-16T08:54:21.425Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "dwad",
+        "fromName": "denis",
+        "timestamp": "2024-03-18T19:17:47.704Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "ffd",
+        "fromName": "denis",
+        "timestamp": "2024-03-18T19:17:49.555Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "axaxa",
+        "fromName": "denis",
+        "timestamp": "2024-03-19T07:08:13.560Z"
+      },
+      {
+        "from": "denis.kvak457@gmail.com",
+        "text": "axax",
+        "fromName": "denis",
+        "timestamp": "2024-03-20T15:36:04.596Z"
+      }
+    ]
+  },
+  {
+    "id": "ee115ef6-a78f-453e-b2bd-a7b3423de591",
+    "chatName": "Группа 1",
+    "members": [
+      "testEmail2@gmail.com"
+    ],
+    "photo": "http://127.0.0.1:3000/uploads/36709d73acb45f5e816d02094a740eba8077f62dcab74a329f1669ae66eef3a7.png",
+    "history": [
+      {
+        "from": "testEmail1@gmail.com",
+        "text": "Привет",
+        "fromName": "denis",
+        "timestamp": "2024-03-17T15:21:04.149Z"
+      },
+      {
+        "from": "testEmail2@gmail.com",
+        "text": "Привет 123",
+        "fromName": "denisTwo",
+        "timestamp": "2024-03-17T15:24:17.654Z"
+      },
+      {
+        "from": "testEmail1@gmail.com",
+        "text": "Как жизнь?",
+        "fromName": "denis",
+        "timestamp": "2024-03-17T15:24:27.058Z"
+      },
+      {
+        "from": "testEmail2@gmail.com",
+        "text": "Хорошо",
+        "fromName": "denisTwo",
+        "timestamp": "2024-03-17T15:25:13.314Z"
+      }
+    ]
+  },
+  {
+    "id": "a29d2483-781d-4d23-ae5e-818bdd42137f",
+    "chatName": "вцв",
+    "members": [
+      "denis.kvak143@gmail.com"
+    ],
+    "photo": "http://127.0.0.1:3000/img/standartAvatar.png",
+    "history": []
+  },
+  {
+    "id": "dd3107a3-a3a7-4f8e-b9fa-33cb0e3fd5ac",
+    "chatName": "dawd",
+    "members": [
+      "testEmail2@gmail.com"
+    ],
+    "photo": "http://127.0.0.1:3000/img/standartAvatar.png",
+    "history": []
+  },
+  {
+    "id": "0fd99cec-e901-4802-8bd3-dfbb1005fe5b",
+    "chatName": "awd",
+    "members": [
+      "denis.kvak143@gmail.com"
+    ],
+    "photo": "http://127.0.0.1:3000/img/standartAvatar.png",
+    "history": []
+  }
+]
